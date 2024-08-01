@@ -1,0 +1,15 @@
+{
+  "name": "@mirco-app/feature-payment-payees",
+  "version": "1.0.0",
+  "description": "Contains screen for payment payees",
+  "main": "index.tsx",
+  "author": "Nicola",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "0.74.3"
+  },
+  "volta": {
+    "node": "20.16.0",
+    "yarn": "1.22.22"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "micro-app",
+  "version": "1.0.0",
+  "description": "a proof of concept multi app repository",
+  "author": "Nicola Sansom",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "volta": {
+    "node": "20.16.0",
+    "yarn": "1.22.22"
+  }
+}
